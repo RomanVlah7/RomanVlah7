@@ -1,17 +1,8 @@
-|
 
-[Roman Vlah](https://www.linkedin.com/in/roman-vlah-63133033b/) 
-
- |
-
+Roman Vlah(https://www.linkedin.com/in/roman-vlah-63133033b/) 
 Java developer, 5+ years experience
-
 GMT+2
-
-[+(359) 088 919 2006](tel:+(359) 088 919 2006)
-
- |
-
+[+(359) 088 919 2006]
 [LinkedIn](https://www.linkedin.com/in/roman-vlah-63133033b/), <roman.vlah.java.dev@gmail.com>, [GitHub](https://github.com/RomanVlah7)
 
 About
