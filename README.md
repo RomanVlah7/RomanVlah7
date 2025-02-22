@@ -28,8 +28,7 @@ Experience
 
 Technologies: Java, Spring Boot, Microservices, PostgreSQL, Kafka, Docker, Lombok, Hibernate, Mokito, JUnit
 
-Education
+Education:
 
 Technical University of Varna
-
- Bachelor - Computer Systems and Technologies - student - (2023 - till now)
+Bachelor - Computer Systems and Technologies - student - (2023 - till now)
